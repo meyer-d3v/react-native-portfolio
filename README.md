@@ -10,7 +10,6 @@ A fully functional **mobile portfolio app** built using **React Native**, showca
 - 🔹 Clean navigation between sections (About, Projects, Contact, etc.)
 - 🔹 Modular component-based structure
 - 🔹 Built using Expo for cross-platform compatibility
-- 🔹 Firebase backend integration *(if used)*
 - 🔹 Optimized for performance and responsiveness
 
 ---
@@ -20,7 +19,6 @@ A fully functional **mobile portfolio app** built using **React Native**, showca
 - React Native
 - Expo
 - TypeScript
-- Firebase *(if applicable)*
 - Node.js (development environment)
 
 ---
@@ -29,8 +27,8 @@ A fully functional **mobile portfolio app** built using **React Native**, showca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/meyer-d3v/react-native-portfolio.git
+cd react-native-portfolio
 
 # Install dependencies
 npm install
