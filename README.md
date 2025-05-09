@@ -32,6 +32,7 @@ cd react-native-portfolio
 
 # Install dependencies
 npm install
+npm install expo eas react
 
 # Start the app
 npx expo start
